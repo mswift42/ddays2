@@ -5,6 +5,8 @@
 .pub/
 build/
 packages
+web/assets/
+web/images/
 
 # Or the files created by dart2js.
 *.dart.js
